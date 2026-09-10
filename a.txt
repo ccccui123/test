@@ -1,1 +1,1 @@
-Git is a good a version control system.
+Git is a good/bad a version control system.
